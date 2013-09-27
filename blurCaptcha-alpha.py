@@ -1,4 +1,4 @@
-#author anirudh duggal anirudhduggal@gmail.com
+#author anirudh duggal anirudhduggal@gmail.com & prajwalpanchmahalkar@gmail.com
 import random
 import Tkinter
 from Tkinter import *
